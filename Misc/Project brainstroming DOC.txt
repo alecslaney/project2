@@ -1,0 +1,63 @@
+-- Income inequality
+Gender
+Race
+Education level
+Region
+ect..
+
+-- Weather v Vacation traffic
+destinations
+Flights to vacation destination v Type of weather in destination
+--climate change
+Regional ghg emissions
+Time v ghg emissions (does public policy work?
+GHG emissions by industry
+Ghg emission v land mass size
+https://www.ncdc.noaa.gov/cdo-web/
+-- impact wildlife preservation efforts
+Population of certain animal over time v when policy was instituted
+
+
+
+
+Dataset ideas
+
+https://www.kaggle.com/START-UMD/gtd
+
+https://catalog.data.gov/dataset?res_format=CSV
+
+https://portal.developer.nielsen.com/faq-page
+
+NFL arrests DATA:
+
+https://www.usatoday.com/sports/nfl/arrests/
+
+http://nflarrest.com/api/#arrestsCrime
+
+NFL player API
+https://developer.sportradar.com/docs/read/american_football/NFL_v5#nfl-v5-failover-information
+
+Visualization ideas
+Arrest heat map
+
+Project Proposal
+___
+
+We are analyzing data surrounding NFL players and the crimes they are arrested and/or convicted for. Thus far, we’ve found substantial amounts of data (both CSV’s and API’s) including arrest data classified by arrest type, player position, disposition, date of arrest, player’s team, and more. 
+
+Potential questions or areas of focus/interest so far:
+	Player position versus crime type (stacked bar)
+	Total crimes committed per team versus total wins over past 20 years (scatter)
+Distribution of crime type (pie)
+Geographical distribution of crime occurrence frequency (map)
+Potential relationships between individual player’s popularity and arrest frequency
+
+Task allocation:
+Chad is Excel wizard and the power pointer
+We all feel fairly confident with Pandas and MatPlotLib
+
+Anticipated Challenges:
+Merging
+Cleaning 
+Cleaning in order to merge 
+Using google api for any kind of mapping construction

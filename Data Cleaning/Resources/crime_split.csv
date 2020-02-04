@@ -1,4 +1,4 @@
-date,team,player,position,crimeraw,desc
+date,team,player,position,crime,desc
 1/17/2020,NE,Joejuan Williams,CB,drugs,"Pulled over for speeding in Nashville, accused of possessing a controlled substance without a prescription."
 1/16/2020,CLE,Odell Beckham,WR,battery,Accused of slapping the buttocks of a police officer in the LSU locker room in New Orleans after LSU championship victory.
 1/11/2020,NE,Julian Edelman,WR,vandalism,"Accused of jumping on the hood of a Mercedes in Beverly Hills, Calif., causing damage."
@@ -30,7 +30,6 @@ date,team,player,position,crimeraw,desc
 3/1/2019,BAL,Alex Collins,RB,drugs,"Police responded to report of a car crash and said they found Collins with marijuana and gun in his vehicle in Owings Mills, Md."
 3/1/2019,BAL,Alex Collins,RB,firearms,"Police responded to report of a car crash and said they found Collins with marijuana and gun in his vehicle in Owings Mills, Md."
 3/1/2019,GB,Antonio Morrison,LB,disorderly conduct,"Accused of interfering with flight operations on plane in Milwaukee, forced to exit plane after incident over placement of a bag under seat."
-2/27/2019,Free Agent,Demaryius Thomas,WR,reckless endagerment,"Charged with vehicular assault, reckless driving after passenger in his car was injured in rollover in Denver. Later signed with New England."
 2/15/2019,CIN,Mark Walton,RB,battery,Accused of misdemeanor and getting into a scuffle with a woman at Walton's parking garage in Miami.
 1/26/2019,DET,Trevor Bates,LB,assault,Accused of punching a police officer after not paying $32 cab fare in New York.
 1/26/2019,KC,De''Anthony Thomas,WR,drugs,"Suspected of possessing marijuana and drug paraphernalia in Allen County, Kan."
@@ -138,9 +137,9 @@ date,team,player,position,crimeraw,desc
 6/19/2016,JAC,Dan Skuta,LB,battery,Accused of pushing a woman's face with an open hand after she refused to give him her phone number in Orlando.
 5/30/2016,DEN,Cody Latimer,WR,traffic - other,Latimer called police and alleged his girlfriend hit him. Police found outstanding traffic warrant from 2015 and arrested him for that in Colorado..
 5/10/2016,LAR,T.J. McDonald,S,dui,"Suspected of hitting a parked car in Woodland Hills, Calif., and driving under the influence of a substance other than alcohol."
-4/24/2016,CAR,Cameron Artis-Payne,RB,reckless endagerment,Accused of driving 102 mph in a 65-mph zone in North Carolina.
+4/24/2016,CAR,Cameron Artis-Payne,RB,reckless endangerment,Accused of driving 102 mph in a 65-mph zone in North Carolina.
 3/21/2016,ATL,Ra' Shede Hageman,DT,domestic violence,"Police report said his girlfriend had lacerations on elbow and hand, also accused of cruelty to children."
-3/18/2016,NO,Damian Swann,CB,reckless endagerment,"Pulled over in Athens, Ga., accused of driving 100 mph in 65-mph zone, reckless driving."
+3/18/2016,NO,Damian Swann,CB,reckless endangerment,"Pulled over in Athens, Ga., accused of driving 100 mph in 65-mph zone, reckless driving."
 3/5/2016,LAR,Tre Mason,RB,drugs,"Pulled over in Hollywood, Fla., accused of reckless driving, marijuana possession and resisting arrest."
 3/4/2016,BAL,Terrell Suggs,LB,traffic - other,"Accused of leaving the scene of an accident and driving with a suspended license in Scottsdale, Ariz."
 2/28/2016,HOU,Jaelen Strong,WR,drugs,"Accused of marijuana possession after traffic stop in Scottsdale, Ariz."
@@ -221,7 +220,7 @@ date,team,player,position,crimeraw,desc
 6/24/2014,IND,Andrew Jackson,LB,dui,"Accused of drunk driving and speeding in Muncie, Ind."
 6/20/2014,CHI,Cornelius Washington,DE,traffic - other,"Pulled over for speeding, accused of driving with a suspended license in Glascock County, Ga."
 6/9/2014,KC,Sean Smith,CB,dui,Accused of drunken driving after a police officer said he saw Smith drive his car into a pole in Kansas City.
-5/30/2014,BUF,Marcell Dareus,DT,reckless endagerment,"Accused of crashing his Jaguar into a tree in Hamburg, N.Y., drag racing and reckless endangerment."
+5/30/2014,BUF,Marcell Dareus,DT,reckless endangerment,"Accused of crashing his Jaguar into a tree in Hamburg, N.Y., drag racing and reckless endangerment."
 5/24/2014,ATL,Darius Johnson,WR,dui,"Suspected of drunk driving, failure to obey traffic signs in Atlanta."
 5/24/2014,BAL,Lorenzo Taliaferro,RB,alcohol - other,"Accused of destroying a taxi cab window in Williamsburg, Va., being drunk in public."
 5/22/2014,DEN,T.J. Ward,S,assault,Accused of throwing a glass at a female bartender at strip club in Denver.
@@ -232,7 +231,7 @@ date,team,player,position,crimeraw,desc
 4/13/2014,SF,Aldon Smith,LB,disorderly conduct,Accused of making a false bomb threat at Los Angeles airport after being selected for secondary screening.
 3/31/2014,CIN,Orson Charles,FB,firearms,"Accused of brandishing gun in car in apparent road rage incident in Madison County, Ky."
 3/29/2014,STL,Greg Reid,CB,probation violation,"Accused of undiclosed probation violation stemming from 2012 arrest after the car he was riding in was pulled over in Valdosta, Ga., for seatbelt violation."
-3/28/2014,SF,Chris Culliver,CB,reckless endagerment,"Accused of hitting a bicyclist with his vehicle, felony hit-and-run and possession of brass knuckles in San Jose. He allegedly threatened witness with brass knuckles."
+3/28/2014,SF,Chris Culliver,CB,reckless endangerment,"Accused of hitting a bicyclist with his vehicle, felony hit-and-run and possession of brass knuckles in San Jose. He allegedly threatened witness with brass knuckles."
 3/28/2014,SF,Chris Culliver,CB,weapons,"Accused of hitting a bicyclist with his vehicle, felony hit-and-run and possession of brass knuckles in San Jose. He allegedly threatened witness with brass knuckles."
 3/21/2014,TEN,Adewale Ojomo,DE,sex - other,"Accused of soliciting a prostitute in Miami for $100, busted by undercover cop."
 3/9/2014,BAL,Jah Reid,OL,battery,"Acccused of getting into a fight at an adult entertainment establishment in Key West, Fla."
@@ -294,7 +293,7 @@ date,team,player,position,crimeraw,desc
 4/20/2013,DET,Ronnell Lewis,LB,alcohol - other,"Charged with three misdemeanors, including disturbing the peace outside bar in Norman, Okla."
 4/18/2013,ATL,William Moore,S,domestic violence,"Accused of grabbing woman by shoulder in dispute, charged with simple battery in Fulton County, Ga."
 4/17/2013,CLE,Quentin Groves,LB,sex - other,"Accused of responding to sex-for-hire advertisement in prostitution sting in Orange, Ohio."
-4/13/2013,CLE,Greg Little,WR,reckless endagerment,"Accused of drag racing after one-car crash involving his 2011 Audi. He left about 40 yards of brake tracks after driving 127 mph in Strongsville, Ohio."
+4/13/2013,CLE,Greg Little,WR,reckless endangerment,"Accused of drag racing after one-car crash involving his 2011 Audi. He left about 40 yards of brake tracks after driving 127 mph in Strongsville, Ohio."
 3/26/2013,DET,Amari Spievey,S,domestic violence,"Accused of third-degree assault, risk of injury to a child and disorderly conduct in dispute with girlfriend about child support in Middletown, Conn."
 3/22/2013,STL,Trumaine Johnson,CB,dui,"Accused of misdmeanor drunken-driving in Missoula, Montana."
 3/21/2013,CHI,Evan Rodriguez,FB,resisting arrest,Accused of disorderly intoxication and resisting arrest after traffic stop in Miami Beach.
@@ -307,7 +306,6 @@ date,team,player,position,crimeraw,desc
 2/23/2013,TEN,Brandon Barden,TE,dui,"Charged with drunken driving after single-car accident in Lincolnton, Ga. Car left road and flipped."
 2/20/2013,SF,Al Netter,OG,dui,"Charged with drunken driving in San Jose, Calif."
 2/18/2013,TB,Da'Quan Bowers,DE,firearms,Arrested at LaGuardia airport after allegedly packing gun into his carry-on bag.
-2/8/2013,Free agent,Michael Boley,LB,child abuse,Accused of excessive spanking in incident involving a child at a hotel in Alabama in 2011. He later signed with Cincinnati.
 2/4/2013,IND,Moise Fokou,LB,dui,Charged with drunk driving for arrest in January in Washington D.C.
 1/29/2013,SEA,Leroy Hill,LB,domestic violence,"Accused of third-degree assault and unlawful imprisonment in dispute with girlfriend in King County, Wash."
 1/22/2013,DAL,Jay Ratliff,DT,dui,"Accused of drunken driving after crashing his Ford pickup truck into an 18-wheeler in Grapevine, Texas."
@@ -356,7 +354,6 @@ date,team,player,position,crimeraw,desc
 4/7/2012,OAK,Darrius Heyward-Bey,WR,dui,"Pulled over on Bay Bridge in California, charged with DUI."
 4/3/2012,DET,Nick Fairley,DT,drugs,"Pulled over in Mobile, Ala., charged with marijuana possession after police found marijuana cigarettes."
 3/30/2012,MIA,Koa Misi,LB,battery,"Arrested in Weston, Fla., on warrant. Accused of punching a man in the eye in California in 2011."
-3/17/2012,Free agent,Samson Satele,C,disorderly conduct,Arrested at a shopping complex in Hawaii. He later signed with Indianapolis.
 3/12/2012,DET,Mikel Leshoure,RB,drugs,"Charged with marijuana possession after traffic stop in Michigan, his second in a month."
 2/26/2012,SEA,Jarriel King,OT,sex - other,Charged with having forcible sex with woman in South Carolina who said she was intoxicated.
 2/25/2012,SEA,Leroy Hill,LB,drugs,Accused of marijuana possession in Atlanta and report of strong odor coming from apartment.
@@ -438,7 +435,7 @@ date,team,player,position,crimeraw,desc
 9/3/2010,IND,Fili Moala,DT,dui,Pulled over at 2:31 a.m. for speeding in Indianapolis and cited with suspicion of driving under the influence. Blood-alcohol measured .10.
 8/8/2010,IND,John Gill,DT,alcohol - other,"Cited after found in a ditch on the side of the road, barefoot and slurring his speech in Marion County, Ind."
 8/8/2010,CLE,Gerard Lawson,DB,dui,Cited with suspicion of driving under the influence after hitting a parked car and leaving the scene in Cleveland.
-8/7/2010,WAS,Fred Davis,TE,reckless endagerment,"Cited with reckless driving, driving 20 mph over the speed limit in Fairfax County, Va."
+8/7/2010,WAS,Fred Davis,TE,reckless endangerment,"Cited with reckless driving, driving 20 mph over the speed limit in Fairfax County, Va."
 8/4/2010,TEN,Kenny Britt,WR,traffic - other,"Pulled over in Nashville for windows in Camaro tinted too dark, then cited for misdemeanor driving without a valid license."
 7/24/2010,STL,Jerome Murphy,CB,traffic - other,"Pulled over in Tampa for what said police said was loud music, charged with misdemeanor of driving without a valid license."
 7/3/2010,SEA,Quinton Ganther,RB,dui,"Pulled over on suspicion for two misdemeanor counts of driving under the influence in Sacramento, Calif. State limit for BAC is .08."
@@ -512,7 +509,7 @@ date,team,player,position,crimeraw,desc
 4/1/2009,CLE,Donte Stallworth,WR,murder,Accused of striking and killing a pedestrian with his car in Miami March 14. Blood-alcohol content measured .126. Charged with DUI manslaughter.
 3/21/2009,OAK,Cornell Green,OT,domestic violence,Accused of slamming the mother of his two children against wall and striking her arm with mop handle. Arrested at Tampa airport after incident.
 3/13/2009,KC,David Macklin,CB,dui,"Pulled over after 3 a.m. in Newport News, Va., accused of drunken driving."
-3/11/2009,WAS,Albert Haynesworth,DT,reckless endagerment,"Grand jury in Williamson County, Tenn., indicted him on charges of misdemeanor reckless driving and expired registration. Accused of causing Dec. 13 accident that caused another motorist to crash."
+3/11/2009,WAS,Albert Haynesworth,DT,reckless endangerment,"Grand jury in Williamson County, Tenn., indicted him on charges of misdemeanor reckless driving and expired registration. Accused of causing Dec. 13 accident that caused another motorist to crash."
 3/9/2009,JAC,Matt Jones,WR,alcohol - other,"Accused of violating terms of previous plea deal in cocaine case. He tested positive for alcohol consumption, leading to his arrest in Arkansas."
 3/1/2009,DEN,Brandon Marshall,WR,domestic violence,Accused of disorderly conduct in Atlanta after fight with fiance.
 2/14/2009,PIT,Jeff Reed,K,disorderly conduct,"Police said he broke towel dispenser in convenience store after finding it out of towels, also used profane language at employee in New Alexandria, Penn."
@@ -526,11 +523,11 @@ date,team,player,position,crimeraw,desc
 2/5/2009,KC,Michael Merritt,TE,drugs,"Police officer in Orlando said he saw him with a marijuana cigarette, leading to marijuana possession charge."
 2/2/2009,SF,Roderick Green,LB,firearms,"Pulled over in Brenham, Texas, accused of unlawfully carrying a weapon, marijuana possession, reckless driving and interfing with police, all misdemeanors."
 2/2/2009,SF,Roderick Green,LB,drugs,"Pulled over in Brenham, Texas, accused of unlawfully carrying a weapon, marijuana possession, reckless driving and interfing with police, all misdemeanors."
-2/2/2009,SF,Roderick Green,LB,reckless endagerment,"Pulled over in Brenham, Texas, accused of unlawfully carrying a weapon, marijuana possession, reckless driving and interfing with police, all misdemeanors."
+2/2/2009,SF,Roderick Green,LB,reckless endangerment,"Pulled over in Brenham, Texas, accused of unlawfully carrying a weapon, marijuana possession, reckless driving and interfing with police, all misdemeanors."
 2/1/2009,SD,Jamal Williams,DT,dui,"Pulled over for speeding in San Diego, accused of drunken driving but blood-alcohol content measured at under the legal limit of .08."
 1/24/2009,PIT,Jonathan Dekker,TE,obstruction,"Accused of fleeing police and giving a false name after apparent public intoxication in Alexandria, Va."
 1/24/2009,SEA,Leroy Hill,LB,drugs,"Accused of possessing less than an ounce of marijuana after being found asleep behind the wheel of his car at an intersection in Douglas County, Ga."
-1/16/2009,NO,Jonathan Vilma,LB,reckless endagerment,Miami police said he resisted arrest after being spotting swerving his car and running red light.
+1/16/2009,NO,Jonathan Vilma,LB,reckless endangerment,Miami police said he resisted arrest after being spotting swerving his car and running red light.
 1/10/2009,DAL,Anthony Spencer,LB,alcohol - other,"Bouncer at Indianapolis nightclub told police Spencer tried to punch him. Accused of public intoxication, disorderly conduct."
 1/10/2009,DAL,Anthony Spencer,LB,disorderly conduct,"Bouncer at Indianapolis nightclub told police Spencer tried to punch him. Accused of public intoxication, disorderly conduct."
 1/6/2009,SD,Vincent Jackson,WR,dui,"Pulled over for speeding and weaving, failed sobriety tests in San Diego, accused of drunken driving in 2008 GMC Sierra."
@@ -564,8 +561,8 @@ date,team,player,position,crimeraw,desc
 6/15/2008,ATL,Daren Stone,S,dui,Suspected of drunk driving in downtown Atlanta.
 6/13/2008,TEN,Brandon Jones,WR,firearms,Accused of carrying .32-caliber gun into Nashville airport.
 6/7/2008,CHI,Cedric Benson,RB,dui,"Accused of running a red light in Austin, Texas, suspected of drunk driving."
-5/31/2008,BUF,Marshawn Lynch,RB,reckless endagerment,"Accused of hitting woman with his Porsche SUV in Buffalo, N.Y., and driving away. Woman required seven stiches for cut, plus hip bruise."
-5/30/2008,JAC,Gerald Sensabaugh,S,reckless endagerment,"Accused of doing stunts on a motorcycle in Kingsport, Tenn."
+5/31/2008,BUF,Marshawn Lynch,RB,reckless endangerment,"Accused of hitting woman with his Porsche SUV in Buffalo, N.Y., and driving away. Woman required seven stiches for cut, plus hip bruise."
+5/30/2008,JAC,Gerald Sensabaugh,S,reckless endangerment,"Accused of doing stunts on a motorcycle in Kingsport, Tenn."
 5/24/2008,SF,Ezra Butler,LB,dui,"Pulled over in Nevada, accused of intoxicated driving and marijuana possession."
 5/24/2008,SF,Ezra Butler,LB,drugs,"Pulled over in Nevada, accused of intoxicated driving and marijuana possession."
 5/20/2008,NO,Charles Grant,DE,murder,"One of several men charged in connection to shooting death of innocent pregnant woman, a bystander at club fight in Early County, Ga."
@@ -573,7 +570,6 @@ date,team,player,position,crimeraw,desc
 5/3/2008,CHI,Cedric Benson,RB,dui,"Accused of boating while intoxicated and resisting arrest on Lake Travis, Texas."
 5/3/2008,ATL,Michael Boley,LB,domestic violence,"Accused of becoming physical with wife during argument at home in Dacula, Ga."
 5/1/2008,CIN,Ahmad Brooks,LB,assault,"Accused of punching woman in left eye during dispute with neighbor in Burlington, Ky."
-4/30/2008,Free agent,Darrion Scott,DE,assault,"Accused of putting dry-cleaning bag over 2-year-old son's head in Hennepin County, Minn. He later signed with the Redskins."
 4/27/2008,NE,Nick Kaczur,OT,drugs,"Pulled over for speeding in Whitestown, N.Y., accused of having 202 OxyContin pills, charged with misdemeanor drug possession."
 4/26/2008,DET,Kalvin Pearson,S,domestic violence,"Accused of aggravated battery of pregnant woman, domestic battery by strangulation, obstrucing officer near Tampa, Fla."
 4/21/2008,SEA,Rocky Bernard,DT,domestic violence,Accused of hitting his girlfriend in the head at Seattle nightclub.
@@ -622,9 +618,9 @@ date,team,player,position,crimeraw,desc
 10/12/2007,WAS,Kili Lefotu,OG,alcohol - other,"Charged with being drunk in public after conflict with patron at a restaurant in Ashburn, Va. Also accused of assault and property destruction."
 10/12/2007,WAS,Kili Lefotu,OG,assault,"Charged with being drunk in public after conflict with patron at a restaurant in Ashburn, Va. Also accused of assault and property destruction."
 10/4/2007,PIT,Najeh Davenport,RB,domestic violence,"In Cleveland custody dispute, he allegedly slapped and choked mother of his son, age 5. Also charged with child endangerment."
-9/29/2007,JAC,Khalif Barnes,OT,reckless endagerment,"Police say he drove through a yard and crashed his Mercedes into a tree, then fled the scene. Charged with violating DUI probation."
+9/29/2007,JAC,Khalif Barnes,OT,reckless endangerment,"Police say he drove through a yard and crashed his Mercedes into a tree, then fled the scene. Charged with violating DUI probation."
 9/5/2007,CLE,Leigh Bodden,CB,resisting arrest,"Accused of failing to comply with police at Cleveland airport. Police said he drove backward on one-way street, resisted arrest and argued.."
-8/27/2007,CHI,Lance Briggs,LB,reckless endagerment,Accused of crashing his Lamborghini into pole and leaving the scene of the accident in Chicago. His car was discovered around 3:15 a.m.
+8/27/2007,CHI,Lance Briggs,LB,reckless endangerment,Accused of crashing his Lamborghini into pole and leaving the scene of the accident in Chicago. His car was discovered around 3:15 a.m.
 8/23/2007,TB,David Boston,WR,dui,Accused of drunken driving after being found asleep behind the wheel of his Range Rover on his way to the Tampa airport.
 8/5/2007,BUF,Anthony Hargrove,DE,resisting arrest,"Accused of breaking a police officer's eyeglasses, resisting arrest and criminal mischief in scuffle outside nightclub in Rochester, N.Y."
 7/26/2007,CAR,Jeremy Bridges,OT,assault,Accused of pointing a gun at a female entertainer in parking lot of strip club in Charlotte.
@@ -731,7 +727,7 @@ date,team,player,position,crimeraw,desc
 5/13/2006,SEA,Wayne Hunter,OT,assault,"Police said Hunter and his brother got into a scuffle at a sports bar in Renton. Wash., knocked over a table and slammed a man down."
 5/12/2006,IND,Vincent Burns,DT,disorderly conduct,"Accused of being part of an altercation outside club in Lexington, Ky. Police say they used stun gun on him."
 5/12/2006,CLE,Reuben Droughns,RB,domestic violence,Accused of shoving his wife to the ground and locking her outside at his home near Denver.
-5/12/2006,TEN,Albert Haynesworth,DT,reckless endagerment,"Warrant issued after anoter motorist said Haynesworth tried to run him off the road with his truck in Cookeville, Tenn."
+5/12/2006,TEN,Albert Haynesworth,DT,reckless endangerment,"Warrant issued after anoter motorist said Haynesworth tried to run him off the road with his truck in Cookeville, Tenn."
 5/11/2006,KC,Jared Allen,DE,dui,"Pulled over for speeding, accused of drunk driving in Overland Park, Kansas."
 4/23/2006,CHI,Ricky Manning,CB,assault,Accused of beating man at a Denny's restaurant near the UCLA campus in Los Angeles.
 4/21/2006,SD,Steve Foley,LB,battery,"Officers approached his car and accused him of resisting arrest in San Diego, public intoxication and battery on officer in scuffle with police."
@@ -794,7 +790,7 @@ date,team,player,position,crimeraw,desc
 6/4/2005,WAS,Sean Taylor,S,assault,Accused of assault and pointing a gun in a confrontation over his all-terrain vehicles in Miami.
 5/29/2005,IND,Mike Doss,S,firearms,"Accused of firing a gun outside a restaurant in Akron, Ohio."
 5/29/2005,DET,Kalimba Edwards,DE,resisting arrest,"Pulled over in Southfield, Mich., accused of resisting arrest and failing to produce a driver's license. Police pepper-sprayed him."
-5/20/2005,CLE,Kellen Winslow Jr.,TE,reckless endagerment,"Accused of disregarding safety in motorcycle accident near Cleveland. He tore up his knee in the accident, causing him to miss the season."
+5/20/2005,CLE,Kellen Winslow Jr.,TE,reckless endangerment,"Accused of disregarding safety in motorcycle accident near Cleveland. He tore up his knee in the accident, causing him to miss the season."
 5/12/2005,TEN,Tyrone Calico,WR,sex - other,Accused of having sex with a woman in the back seat of his Escalade in Nashville.
 5/6/2005,SEA,Koren Robinson,WR,dui,"Pulled over in Seattle suburb, accused of drunk driving. Blood-alcohol of .191"
 4/25/2005,GB,Ahman Green,RB,domestic violence,"Accused of domestic abuse in argument with his wife, who called the authorities on him in Ledgeview, Wisc."
@@ -817,7 +813,7 @@ date,team,player,position,crimeraw,desc
 12/4/2004,TB,Torrie Cox,CB,dui,"Pulled over in Tampa about 3 a.m., accused of drunk driving."
 12/3/2004,HOU,Bryan Pittman,C,dui,Accused of driving while intoxicated in Houston.
 11/17/2004,ARI,Joshua Rue,RB,domestic violence,"Accused of pushing his wife and throwing a coat hanger at her in Tempe, Ariz."
-11/16/2004,CHI,David Terrell,WR,reckless endagerment,"Pulled over in Chicago, accused of reckless driving, driving with a suspended license and failure to yield."
+11/16/2004,CHI,David Terrell,WR,reckless endangerment,"Pulled over in Chicago, accused of reckless driving, driving with a suspended license and failure to yield."
 11/16/2004,CLE,Paul Zukauskas,OG,dui,"Pulled over in suburban Cleveland, accused of drunk driving and failing sobriety tests."
 11/6/2004,ATL,Matt Schaub,QB,assault,"Accused of being one of three men to assault a man in Charlottesville, Va., outside a campus restaurant."
 10/28/2004,WAS,Sean Taylor,S,dui,"Pulled over for speeding, accused of drunk driving and refusing to take a breath test in Fairfax County, Va."
@@ -914,7 +910,7 @@ date,team,player,position,crimeraw,desc
 10/7/2002,CLE,Darren Hambrick,LB,theft,"In Dade City, Fla., accused of felony grand theft after he cashed a $5,682 check from the Carolina Panthers, then said he never received it and cashed the reissued check."
 10/2/2002,OAK,Sebastian Janikowski,K,dui,"Pulled over in Oakland, accused of drunk driving. Blood-alcohol measured at .20."
 9/25/2002,KC,Lew Bush,LB,dui,"Pulled over and ticketed for straddling a lane, accused of drunk driving, refusing sobriety test in Kansas City."
-9/24/2002,MIN,Randy Moss,WR,reckless endagerment,"Accused of careless driving after the officer stepped in front of his car to prevent illegal turn in Minneapolis. Moss pushed cop with car, where marijuana was found."
+9/24/2002,MIN,Randy Moss,WR,reckless endangerment,"Accused of careless driving after the officer stepped in front of his car to prevent illegal turn in Minneapolis. Moss pushed cop with car, where marijuana was found."
 9/24/2002,MIN,Randy Moss,WR,drugs,"Accused of careless driving after the officer stepped in front of his car to prevent illegal turn in Minneapolis. Moss pushed cop with car, where marijuana was found."
 9/23/2002,DAL,Deveren Johnson,WR,breach of peace,"Accused of pushing past security at airport, saying he was worried about missing early flight in Connecticut."
 8/31/2002,KC,Willie Roaf,OT,dui,"Pulled over, accused of drunk driving in Wyandotte County, Kan."
@@ -927,7 +923,7 @@ date,team,player,position,crimeraw,desc
 7/8/2002,GB,Najeh Davenport,RB,burglary,Accused of breaking into a woman's dorm room at Barry University in Miami and defecating in her laundry basket.
 7/6/2002,NYJ,Aaron Beasley,CB,battery,Accused of simple battery in bar fight in Jacksonville.
 7/6/2002,SF,Mike Rumph,CB,dui,"Pulled over after police said he ran stop signs in his Escalade, accused of drunk driving in Miami."
-7/2/2002,BUF,Rodney Wright,WR,reckless endagerment,"Accused of hit-and-run after he crashed his SUV into a van in Fresno, Calif."
+7/2/2002,BUF,Rodney Wright,WR,reckless endangerment,"Accused of hit-and-run after he crashed his SUV into a van in Fresno, Calif."
 6/26/2002,BUF,Sheldon Jackson,TE,drugs,"Pulled over in Illinois, accused of possessing 2.5 grams of marijuana and driving with a suspended license ."
 6/26/2002,BUF,Sheldon Jackson,TE,traffic - other,"Pulled over in Illinois, accused of possessing 2.5 grams of marijuana and driving with a suspended license ."
 6/23/2002,CHI,Bryan Robinson,DE,dui,"Accused of drunk driving in Lake County, Ill."
@@ -941,8 +937,8 @@ date,team,player,position,crimeraw,desc
 3/27/2002,IND,Dominic Rhodes,RB,domestic violence,Accused of hitting and shoving his live-in girlfriend in Indiana.
 3/13/2002,ARI,David Boston,WR,dui,Accused in Phoenix of driving under the influence of cocaine and marijuana after testing positive for those drugs. He was arrested at his home after two people called 911.
 3/13/2002,ARI,David Boston,WR,drugs,Accused in Phoenix of driving under the influence of cocaine and marijuana after testing positive for those drugs. He was arrested at his home after two people called 911.
-2/24/2002,MIA,Ricky Williams,RB,reckless endagerment,"Pulled over, arrested and accused of driving 126 mph on Interstate 10 in Louisiana."
-2/21/2002,ARI,Yusuf Scott,OG,leaving scene.,"Accused of leaving the scene of an accident with injuries on Jan. 7 in Phoenix. He allegedly said he was moving his car out of traffic, then left."
+2/24/2002,MIA,Ricky Williams,RB,reckless endangerment,"Pulled over, arrested and accused of driving 126 mph on Interstate 10 in Louisiana."
+2/21/2002,ARI,Yusuf Scott,OG,leaving scene,"Accused of leaving the scene of an accident with injuries on Jan. 7 in Phoenix. He allegedly said he was moving his car out of traffic, then left."
 2/9/2002,NE,Kevin Faulk,RB,resisting arrest,"Accused of using inappropriate language after trying to remove barricade so he could drive past it in Lafayette, La."
 2/8/2002,CAR,Jarrod Cooper,S,dui,"Accused of drunk driving, losing control of his car in a single-car accident in Charlotte. Blood-alcohol measured at .18."
 2/4/2002,SD,Leonardo Carson,DT,assault,"Accused of pulling a gun at a car repair shop in Mobile, Ala. Shop employee said Carson threatened him in argument over repairs."
@@ -978,7 +974,7 @@ date,team,player,position,crimeraw,desc
 7/14/2001,CHI,Paul Edinger,K,dui,"Accused of drunk driving and crashing into mailboxes in Punta Gorda, Fla."
 7/13/2001,DET,Aaron Gibson,OT,assault,"Accused of hitting a woman in the buttocks and spitting in her face outside a club in Pontiac, Mich."
 7/5/2001,NO,Michael Hawthorne,CB,drugs,"Pulled over for weaving in New Orleans, accused of reckless driving and marijuana possession after police smelled dope."
-7/5/2001,NO,Michael Hawthorne,CB,reckless endagerment,"Pulled over for weaving in New Orleans, accused of reckless driving and marijuana possession after police smelled dope."
+7/5/2001,NO,Michael Hawthorne,CB,reckless endangerment,"Pulled over for weaving in New Orleans, accused of reckless driving and marijuana possession after police smelled dope."
 7/4/2001,MIA,Ben Kelly,CB,dui,"Accused of bumping into a parked police car, drunk driving and refusing breath test in Miami."
 6/23/2001,ARI,Michael Pittman,RB,domestic violence,"Accused of breaking sliding glass door and criminal trespass in dispute with his wife in Tempe, Ariz. It was the second domestic incident for him in two weeks."
 6/16/2001,TB,Alex Ardley,CB,dui,"Accused of drunk driving and crashing Deuce McAllister's SUV into a house in Tallahassee, Fla."
